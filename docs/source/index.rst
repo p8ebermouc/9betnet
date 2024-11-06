@@ -1,7 +1,7 @@
 9BET - Cược là nét | Nhà cái thể thao và live casino Top 1
 ===================================
 
-9BET là nhà cái uy tín hàng đầu Châu Âu, cung cấp các sản phẩm cá cược đa dạng như: Thể thao, E-Sports, Casino trực tuyến, Lô đề và Game Slot cùng nhiều...
+`9BET <https://9bet.net/>`_ là nhà cái uy tín hàng đầu Châu Âu, cung cấp các sản phẩm cá cược đa dạng như: Thể thao, E-Sports, Casino trực tuyến, Lô đề và Game Slot cùng nhiều...
 
 Thể thao 9BET là nền tảng cược thể thao danh tiếng của nhà cái 9BET. Cung cấp kèo bóng đá, bóng rổ, tennis và nhiều môn thể thao đặc sắc kèm tỷ lệ thanh khoản cao.
 
@@ -39,7 +39,7 @@ https://www.linkedin.com/in/9betnet/
 https://9betnet.bandcamp.com/album/9bet
 https://9betnet.webflow.io/
 https://disqus.com/by/9betnet/about/
-https://9betnet.readthedocs.io/
+https://9betnet1.readthedocs.io/
 https://about.me/link9betnet
 https://www.mixcloud.com/9betnet/
 https://hub.docker.com/u/9betnet
